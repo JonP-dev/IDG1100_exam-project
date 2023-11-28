@@ -1,0 +1,37 @@
+#!/bin/bash
+
+data_file="%full_data_file_path%"
+page_template="%page_template%"
+this_dir="$( dirname "$0" )"
+log_file="$this_dir/logs.txt"
+
+query_string="$(printf '%b' ${QUERY_STRING//%/\\x})"
+
+place=$(sed -E 's|place=([^&?]*)|\1|' <<< "$query_string")
+
+# searching for the place in our data
+body=$(
+    awk -F '\t' -v place="${place}" '
+    $2 == place {
+        printf("<p>The weather for <b><i>%s</i></b> %s. Temperature: <b>%s°C</b> Precipitation: <b>%smm</b> Last Updated: <i>%s</i></p>", $2, $7, $5, $6, $8);
+        exit;
+    }' "$data_file"
+)
+
+# returning content to Apache
+echo "Content-type: text/html"
+
+if [[ -z "$body" ]]; then
+    body="<p>Place ${place} was not found</p>"
+    echo "Status: 404 Not Found"
+    echo "[INFO] Place ${place} not found" >> "$log_file"
+else
+    echo "Status: 200 Okayish so far"
+    echo "[INFO] Returning weather for place ${place}" >> "$log_file"
+fi
+
+echo
+
+title="Weather for ${place}"
+html="$(sed "s|%PageTitle%|${title}|" <<< "$page_template")"
+echo "${html//%body%/${body}}"
