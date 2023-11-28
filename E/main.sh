@@ -37,5 +37,5 @@ page_template='
 </html>
 '
 
-### Dumping variable contents in a file.
+### Dumping variable contents in an HTML-file.
 echo "$page_template" > "table-page.html"
