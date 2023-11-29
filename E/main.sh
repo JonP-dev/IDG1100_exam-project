@@ -1,6 +1,6 @@
 #!/bin/bash
 
-### Download the webpge to our local machine.
+### Download the webpage to our local machine.
 curl -s https://en.wikipedia.org/wiki/List_of_municipalities_of_Norway > step_1_page.html.txt
 
 ### Removing whitespace characters (also tabs).
