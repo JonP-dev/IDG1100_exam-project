@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# converts degree-type coordinates in decimal coordinates; reads from stdin
+### Converts degree-type coordinates to decimal-type coordinates by adding the respective minutes and seconds
+### for the longitude- and latitude-coordinates as decimals; reads from stdin.
 function deg2dec() {
     while read -r deg; do
         awk '

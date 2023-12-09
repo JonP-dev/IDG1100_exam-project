@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# 1 - save a webpage as an HTML file
+curl -s https://en.wikipedia.org/wiki/Eigersund > wiki.article.html
+
+# 2 - remove all newlines and tabs; prepare the file for grep
+cat "wiki.article.html" | tr -d '\n\t' > wiki.article.no.newlines.html
+
+# 3 Removing all tables
+sed -E 's/<table/\n<table/g; s/<\/table>/<\/table>\n/g;' wiki.article.no.newlines.html | sed '/<table/d' | tr -d '\n\t' > wiki.article.no.newlines.no.tables.html
+
+# 4 - find all paragraphs and record them; NOTE: this code doesn't deal with nested paragraphs (these shouldn't be used anyways)
+grep -E -o '<p[ >].*<\/p>' wiki.article.no.newlines.no.tables.html > p.extracts.txt
+
+# 5 - create a static page to show the paragraphs
+awk -v p="$(cat p.extracts.txt)" '/<!--REPLACEME-->/{print p; } !/<!--REPLACEME-->/{print $0; }' 'page.template.txt' > my.fancy.page.html
+
+#BONUS task: make sure images load
+# fix root-relative urls
+sed -E -e "s/([\"'])\/([^\/])/\1https:\/\/en.wikipedia.org\/\2/g" -e "s/([\"'])\/\//\1https:\/\//g" my.fancy.page.html > my.fancy.page.fixed.urls.html

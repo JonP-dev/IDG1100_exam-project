@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# 1 - save the index webpage as an HTML file
+curl -s https://en.wikipedia.org/wiki/List_of_municipalities_of_Norway > wiki.list.html
+
+# 2 - remove all newlines and tabs; prepare the file for grep (because grep evaluates everything line by line, so we'd want all HTML/text on a single line)
+cat "wiki.list.html" | tr -d '\n\t' > wiki.list.no.newlines.html
+
+# 3 - find the table with all links; extract it; the table has classes "sortable wikitable", which are used to identify it; <table> and <tbody> are removed; <tr> are replaced with newline characters; <td> are replaced with "tab" characters; the 1st line is deleted
+sed -E 's/.*<table class="sortable wikitable">(.*)<\/table>.*/\1/g' wiki.list.no.newlines.html | sed 's/<\/table>/\n/g' | sed -n '1p' | grep -o '<tbody[ >].*<\/tbody>' | sed -E 's/<tbody[^>]*>(.*)<\/tbody>/\1/g' | sed -E 's/<tr[^>]*>//g' | sed 's/<\/tr>/\n/g' | sed -E 's/<td[^>]*>//g' | sed 's/<\/td>/\t/g' | sed '1d' > table.txt
+
+
+# 4 - cut the table, only take 2nd column (it contains <a> elements for each municipality)
+cut -f 2 table.txt > column2.txt
+
+# 5 - extract the urls (from hrefs of <a>) and place names (the text inside <a>)
+awk 'match($0, /href="[^"]*"/){url=substr($0, RSTART+6, RLENGTH-7)} match($0, />[^<]*<\/a>/){printf("%s%s\t%s\n", "https://en.wikipedia.org", url, substr($0, RSTART+1, RLENGTH-5))} ' column2.txt  > data.txt
+
+# 6 - query individual-place URLs one by one; Takes long time -- watch 'data.with.coords.txt' for new data arriving in real time
+truncate -s 0 data.with.coords.txt # if the file already exists, cut it down to zero bytes
+while read url place; do
+	pageHtml="$(curl -s "$url")"
+	lat=$(echo $pageHtml | grep -o '<span class="latitude">[^<]*' | head -n 1 | sed 's/<span class="latitude">//' )
+	lon=$(echo $pageHtml | grep -o '<span class="longitude">[^<]*' | head -n 1 | sed 's/<span class="longitude">//' )
+	printf "%s\t%s\t%s\t%s\n" $url $place $lat $lon >> data.with.coords.txt
+done < data.txt
+
+# 7 - prettify data; convert URLs in href for <a>, wrap everything in paragraphs; "&#9;" is a "tab" character in HTML 
+awk -F'\t' '{printf "<p><a href=\"%s\">%s</a> is here: <span>%s&#9;%s</span></p>\n", $1, $2, $3, $4 }' "data.with.coords.txt" > "pretty.data.html"
+
+# 8 - render the page
+sed -e '/<!--REPLACEME-->/r pretty.data.html' -e '/<!--REPLACEME-->/d' 'page.template.txt' > my.fancy.page.html
