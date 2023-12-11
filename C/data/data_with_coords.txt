@@ -1,369 +1,356 @@
-https://en.wikipedia.org/wiki/Oslo	Oslo	59°54′48″N	10°44′20″E
-https://en.wikipedia.org/wiki/Eigersund	Eigersund	58°28′42″N	06°03′47″E
-https://en.wikipedia.org/wiki/Stavanger	Stavanger	58°58′12″N	05°43′53″E
-https://en.wikipedia.org/wiki/Haugesund	Haugesund	59°26′47″N	05°17′54″E
-https://en.wikipedia.org/wiki/Sandnes	Sandnes	58°51′06″N	05°44′10″E
-https://en.wikipedia.org/wiki/Sokndal	Sokndal	58°21′54″N	06°18′37″E
-https://en.wikipedia.org/wiki/Lund,_Norway	Lund	58°31′11″N	06°27′41″E
-https://en.wikipedia.org/wiki/Bjerkreim	Bjerkreim	58°39′25″N	06°08′48″E
-https://en.wikipedia.org/wiki/H%C3%A5	Hå	58°36′23″N	05°43′29″E
-https://en.wikipedia.org/wiki/Klepp	Klepp	58°46′38″N	05°35′48″E
-https://en.wikipedia.org/wiki/Time,_Norway	Time	58°43′22″N	05°45′55″E
-https://en.wikipedia.org/wiki/Gjesdal	Gjesdal	58°46′55″N	06°00′31″E
-https://en.wikipedia.org/wiki/Sola,_Norway	Sola	58°52′48″N	05°37′43″E
-https://en.wikipedia.org/wiki/Randaberg	Randaberg	59°00′06″N	05°36′55″E
-https://en.wikipedia.org/wiki/Strand,_Norway	Strand	59°03′48″N	06°01′40″E
-https://en.wikipedia.org/wiki/Hjelmeland	Hjelmeland	59°13′02″N	06°20′27″E
-https://en.wikipedia.org/wiki/Suldal	Suldal	59°28′06″N	06°29′59″E
-https://en.wikipedia.org/wiki/Sauda	Sauda	59°41′15″N	06°26′14″E
-https://en.wikipedia.org/wiki/Kvits%C3%B8y	Kvitsøy	59°03′44″N	05°24′42″E
-https://en.wikipedia.org/wiki/Bokn	Bokn	59°12′01″N	05°25′23″E
-https://en.wikipedia.org/wiki/Tysv%C3%A6r	Tysvær	59°21′42″N	05°32′34″E
-https://en.wikipedia.org/wiki/Karm%C3%B8y	Karmøy	59°15′23″N	05°14′57″E
-https://en.wikipedia.org/wiki/Utsira	Utsira	59°18′26″N	04°53′10″E
-https://en.wikipedia.org/wiki/Vindafjord	Vindafjord	59°32′44″N	05°49′05″E
-https://en.wikipedia.org/wiki/Kristiansund	Kristiansund	63°06′37″N	07°43′40″E
-https://en.wikipedia.org/wiki/Molde	Molde	62°45′23″N	07°14′19″E
-https://en.wikipedia.org/wiki/%C3%85lesund	Ålesund	62°28′40″N	06°11′25″E
-https://en.wikipedia.org/wiki/Vanylven	Vanylven	62°03′38″N	05°41′51″E
-https://en.wikipedia.org/wiki/Sande,_M%C3%B8re_og_Romsdal	Sande	62°15′30″N	05°25′53″E
-https://en.wikipedia.org/wiki/Her%C3%B8y,_M%C3%B8re_og_Romsdal	Herøy	62°21′20″N	05°32′40″E
-https://en.wikipedia.org/wiki/Ulstein	Ulstein	62°21′23″N	05°51′14″E
-https://en.wikipedia.org/wiki/Hareid	Hareid	62°21′51″N	06°00′05″E
-https://en.wikipedia.org/wiki/%C3%98rsta	Ørsta	62°12′01″N	06°07′56″E
-https://en.wikipedia.org/wiki/Stranda	Stranda	62°11′29″N	06°56′56″E
-https://en.wikipedia.org/wiki/Sykkylven	Sykkylven	62°22′32″N	06°38′39″E
-https://en.wikipedia.org/wiki/Sula,_M%C3%B8re_og_Romsdal	Sula	62°25′29″N	06°12′22″E
-https://en.wikipedia.org/wiki/Giske	Giske	62°33′45″N	06°06′07″E
-https://en.wikipedia.org/wiki/Vestnes	Vestnes	62°35′04″N	07°01′06″E
-https://en.wikipedia.org/wiki/Rauma,_Norway	Rauma	62°30′17″N	07°46′55″E
-https://en.wikipedia.org/wiki/Aukra	Aukra	62°49′43″N	06°50′45″E
-https://en.wikipedia.org/wiki/Aver%C3%B8y	Averøy	62°59′50″N	07°33′19″E
-https://en.wikipedia.org/wiki/Gjemnes	Gjemnes	62°54′59″N	07°55′09″E
-https://en.wikipedia.org/wiki/Tingvoll	Tingvoll	62°57′13″N	08°13′5″E
-https://en.wikipedia.org/wiki/Sunndal	Sunndal	62°36′46″N	08°38′03″E
-https://en.wikipedia.org/wiki/Surnadal	Surnadal	62°56′51″N	08°46′12″E
-https://en.wikipedia.org/wiki/Sm%C3%B8la	Smøla	63°24′07″N	08°01′45″E
-https://en.wikipedia.org/wiki/Aure,_Norway	Aure	63°16′07″N	08°36′28″E
-https://en.wikipedia.org/wiki/Volda	Volda	62°05′16″N	06°00′51″E
-https://en.wikipedia.org/wiki/Fjord_(municipality)	Fjord	62°18′13″N	7°15′28″E
-https://en.wikipedia.org/wiki/Hustadvika_(municipality)	Hustadvika	62°55′00″N	7°13′39″E
-https://en.wikipedia.org/wiki/Bod%C3%B8	Bodø	67°16′58″N	14°22′30″E
-https://en.wikipedia.org/wiki/Narvik	Narvik	68°25′14″N	17°33′36″E
-https://en.wikipedia.org/wiki/Bindal	Bindal	65°05′48″N	12°35′19″E
-https://en.wikipedia.org/wiki/S%C3%B8mna	Sømna	65°19′25″N	12°10′38″E
-https://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8y	Brønnøy	65°28′33″N	12°24′01″E
-https://en.wikipedia.org/wiki/Vega,_Norway	Vega	65°40′31″N	11°57′28″E
-https://en.wikipedia.org/wiki/Vevelstad	Vevelstad	65°40′06″N	12°31′07″E
-https://en.wikipedia.org/wiki/Her%C3%B8y,_Nordland	Herøy	65°59′55″N	12°13′02″E
-https://en.wikipedia.org/wiki/Alstahaug	Alstahaug	65°57′24″N	12°34′22″E
-https://en.wikipedia.org/wiki/Leirfjord	Leirfjord	66°06′46″N	13°07′51″E
-https://en.wikipedia.org/wiki/Vefsn	Vefsn	65°47′57″N	13°15′02″E
-https://en.wikipedia.org/wiki/Grane,_Nordland	Grane	65°24′02″N	13°30′38″E
-https://en.wikipedia.org/wiki/Hattfjelldal	Hattfjelldal	65°32′51″N	14°08′04″E
-https://en.wikipedia.org/wiki/D%C3%B8nna	Dønna	66°05′29″N	12°31′33″E
-https://en.wikipedia.org/wiki/Nesna	Nesna	66°15′28″N	13°02′06″E
-https://en.wikipedia.org/wiki/Hemnes	Hemnes	66°03′15″N	14°01′50″E
-https://en.wikipedia.org/wiki/Rana,_Norway	Rana	66°22′19″N	14°20′34″E
-https://en.wikipedia.org/wiki/Lur%C3%B8y	Lurøy	66°25′55″N	12°51′18″E
-https://en.wikipedia.org/wiki/Tr%C3%A6na	Træna	66°30′27″N	12°01′51″E
-https://en.wikipedia.org/wiki/R%C3%B8d%C3%B8y	Rødøy	66°35′36″N	13°21′34″E
-https://en.wikipedia.org/wiki/Mel%C3%B8y	Meløy	66°47′17″N	13°40′33″E
-https://en.wikipedia.org/wiki/Gildesk%C3%A5l	Gildeskål	67°01′24″N	14°04′38″E
-https://en.wikipedia.org/wiki/Beiarn	Beiarn	66°55′02″N	14°40′29″E
-https://en.wikipedia.org/wiki/Saltdal	Saltdal	66°55′12″N	15°33′36″E
-https://en.wikipedia.org/wiki/Fauske	Fauske	67°13′14″N	15°48′31″E
-https://en.wikipedia.org/wiki/S%C3%B8rfold	Sørfold	67°13′14″N	15°48′31″E
-https://en.wikipedia.org/wiki/Steigen	Steigen	67°47′54″N	15°10′19″E
-https://en.wikipedia.org/wiki/L%C3%B8dingen	Lødingen	68°24′15″N	15°34′17″E
-https://en.wikipedia.org/wiki/Evenes	Evenes	68°32′11″N	16°55′55″E
-https://en.wikipedia.org/wiki/R%C3%B8st	Røst	67°31′12″N	12°05′56″E
-https://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y	Værøy	67°40′23″N	12°40′09″E
-https://en.wikipedia.org/wiki/Flakstad	Flakstad	68°04′45″N	13°16′28″E
-https://en.wikipedia.org/wiki/Vestv%C3%A5g%C3%B8y	Vestvågøy	68°13′17″N	13°47′04″E
-https://en.wikipedia.org/wiki/V%C3%A5gan	Vågan	68°16′41″N	14°31′15″E
-https://en.wikipedia.org/wiki/Hadsel	Hadsel	68°32′06″N	14°49′30″E
-https://en.wikipedia.org/wiki/B%C3%B8,_Nordland	Bø	68°41′43″N	14°34′46″E
-https://en.wikipedia.org/wiki/%C3%98ksnes	Øksnes	68°53′18″N	15°11′00″E
-https://en.wikipedia.org/wiki/Sortland	Sortland	68°42′31″N	15°16′51″E
-https://en.wikipedia.org/wiki/And%C3%B8y	Andøy	69°05′40″N	15°45′52″E
-https://en.wikipedia.org/wiki/Moskenes	Moskenes	67°55′31″N	12°57′32″E
-https://en.wikipedia.org/wiki/Hamar%C3%B8y	Hamarøy	68°04′33″N	15°46′56″E
-https://en.wikipedia.org/wiki/Halden	Halden	59°7′35″N	11°28′58″E
-https://en.wikipedia.org/wiki/Moss,_Norway	Moss	59°27′33″N	10°42′3″E
-https://en.wikipedia.org/wiki/Sarpsborg	Sarpsborg	59°17′09″N	11°06′43″E
-https://en.wikipedia.org/wiki/Fredrikstad	Fredrikstad	59°12′19″N	10°57′0″E
-https://en.wikipedia.org/wiki/Drammen	Drammen	59°44′16″N	10°12′18″E
-https://en.wikipedia.org/wiki/Kongsberg	Kongsberg	59°40′10″N	09°39′06″E
-https://en.wikipedia.org/wiki/Ringerike_(municipality)	Ringerike	60°12′19″N	10°9′9″E
-https://en.wikipedia.org/wiki/Hvaler	Hvaler	59°3′23″N	11°1′20″E
-https://en.wikipedia.org/wiki/Aremark	Aremark	59°13′23″N	11°41′44″E
-https://en.wikipedia.org/wiki/Marker,_Norway	Marker	59°30′40″N	11°37′42″E
-https://en.wikipedia.org/wiki/Indre_%C3%98stfold_municipality	Indre	Østfold	59°34′56″N
-11°10′13″E			
-https://en.wikipedia.org/wiki/Skiptvet	Skiptvet	59°28′50″N	11°8′40″E
-https://en.wikipedia.org/wiki/Rakkestad	Rakkestad	59°22′23″N	11°25′13″E
-https://en.wikipedia.org/wiki/R%C3%A5de	Råde	59°20′56″N	10°51′18″E
-https://en.wikipedia.org/wiki/V%C3%A5ler,_%C3%98stfold	Våler	59°28′21″N	10°55′1″E
-https://en.wikipedia.org/wiki/Vestby	Vestby	59°34′30″N	10°43′55″E
-https://en.wikipedia.org/wiki/Nordre_Follo	Nordre	Follo	59°45′00″N
-10°52′00″E			
-https://en.wikipedia.org/wiki/%C3%85s,_Akershus	Ås	59°39′37″N	10°47′1″E
-https://en.wikipedia.org/wiki/Frogn	Frogn	59°41′56″N	10°39′19″E
-https://en.wikipedia.org/wiki/Nesodden	Nesodden	59°48′31″N	10°39′20″E
-https://en.wikipedia.org/wiki/B%C3%A6rum	Bærum	59°56′18″N	10°30′24″E
-https://en.wikipedia.org/wiki/Asker	Asker	59°50′7″N	10°26′6″E
-https://en.wikipedia.org/wiki/Aurskog-H%C3%B8land	Aurskog-Høland	59°50′24″N	11°34′6″E
-https://en.wikipedia.org/wiki/R%C3%A6lingen	Rælingen	59°53′21″N	11°4′31″E
-https://en.wikipedia.org/wiki/Enebakk	Enebakk	59°46′27″N	11°6′7″E
-https://en.wikipedia.org/wiki/L%C3%B8renskog	Lørenskog	59°53′56″N	10°57′51″E
-https://en.wikipedia.org/wiki/Lillestr%C3%B8m	Lillestrøm	59°57′N	11°05′E
-https://en.wikipedia.org/wiki/Nittedal	Nittedal	60°4′23″N	10°52′20″E
-https://en.wikipedia.org/wiki/Gjerdrum	Gjerdrum	60°4′57″N	11°0′52″E
-https://en.wikipedia.org/wiki/Ullensaker	Ullensaker	60°10′15″N	11°11′17″E
-https://en.wikipedia.org/wiki/Nes,_Akershus	Nes	60°7′51″N	11°29′21″E
-https://en.wikipedia.org/wiki/Eidsvoll	Eidsvoll	60°21′N	11°15′E
-https://en.wikipedia.org/wiki/Nannestad	Nannestad	60°14′44″N	10°57′10″E
-https://en.wikipedia.org/wiki/Hurdal	Hurdal	60°24′57″N	11°0′31″E
-https://en.wikipedia.org/wiki/Hole,_Norway	Hole	60°2′52″N	10°17′28″E
-https://en.wikipedia.org/wiki/Fl%C3%A5	Flå	60°24′31″N	9°29′3″E
-https://en.wikipedia.org/wiki/Nesbyen_(municipality)	Nesbyen	60°33′30″N	9°6′4″E
-https://en.wikipedia.org/wiki/Gol,_Norway	Gol	60°45′1″N	8°59′5″E
-https://en.wikipedia.org/wiki/Hemsedal	Hemsedal	60°54′21″N	8°30′53″E
-https://en.wikipedia.org/wiki/%C3%85l	Ål	60°37′49″N	8°33′40″E
-https://en.wikipedia.org/wiki/Hol	Hol	60°34′18″N	8°4′18″E
-https://en.wikipedia.org/wiki/Sigdal	Sigdal	60°3′9″N	9°36′4″E
-https://en.wikipedia.org/wiki/Kr%C3%B8dsherad	Krødsherad	60°11′42″N	9°39′52″E
-https://en.wikipedia.org/wiki/Modum	Modum	59°57′27″N	9°58′58″E
-https://en.wikipedia.org/wiki/%C3%98vre_Eiker	Øvre	Eiker	59°46′19″N
-9°50′10″E			
-https://en.wikipedia.org/wiki/Lier,_Norway	Lier	59°47′38″N	10°15′58″E
-https://en.wikipedia.org/wiki/Flesberg	Flesberg	59°50′52″N	9°28′56″E
-https://en.wikipedia.org/wiki/Rollag	Rollag	60°1′2″N	9°14′2″E
-https://en.wikipedia.org/wiki/Nore_og_Uvdal	Nore	og	Uvdal
-60°18′26″N	8°48′20″E		
-https://en.wikipedia.org/wiki/Jevnaker	Jevnaker	60°16′16″N	10°24′7″E
-https://en.wikipedia.org/wiki/Lunner	Lunner	60°15′10″N	10°40′2″E
-https://en.wikipedia.org/wiki/Kongsvinger	Kongsvinger	60°14′35″N	12°13′32″E
-https://en.wikipedia.org/wiki/Hamar_Municipality	Hamar	60°47′57″N	11°3′22″E
-https://en.wikipedia.org/wiki/Lillehammer	Lillehammer	61°7′N	10°28′E
-https://en.wikipedia.org/wiki/Gj%C3%B8vik	Gjøvik	60°47′33″N	10°41′42″E
-https://en.wikipedia.org/wiki/Ringsaker	Ringsaker	61°1′27″N	10°48′7″E
-https://en.wikipedia.org/wiki/L%C3%B8ten	Løten	60°49′31″N	11°23′27″E
-https://en.wikipedia.org/wiki/Stange	Stange	60°42′57″N	11°11′25″E
-https://en.wikipedia.org/wiki/Nord-Odal	Nord-Odal	60°26′32″N	11°34′5″E
-https://en.wikipedia.org/wiki/S%C3%B8r-Odal	Sør-Odal	60°14′12″N	11°44′44″E
-https://en.wikipedia.org/wiki/Eidskog	Eidskog	59°59′53″N	12°3′38″E
-https://en.wikipedia.org/wiki/Grue,_Norway	Grue	60°27′23″N	12°03′30″E
-https://en.wikipedia.org/wiki/%C3%85snes	Åsnes	60°39′13″N	12°9′11″E
-https://en.wikipedia.org/wiki/V%C3%A5ler,_Hedmark	Våler	60°45′12″N	11°53′51″E
-https://en.wikipedia.org/wiki/Elverum	Elverum	60°55′39″N	11°42′55″E
-https://en.wikipedia.org/wiki/Trysil	Trysil	61°18′36″N	12°18′54″E
-https://en.wikipedia.org/wiki/%C3%85mot	Åmot	61°8′47″N	11°24′57″E
-https://en.wikipedia.org/wiki/Stor-Elvdal	Stor-Elvdal	61°38′6″N	10°52′27″E
-https://en.wikipedia.org/wiki/Rendalen	Rendalen	61°51′34″N	11°10′34″E
-https://en.wikipedia.org/wiki/Engerdal	Engerdal	61°53′N	12°2′E
-https://en.wikipedia.org/wiki/Tolga,_Norway	Tolga	62°24′5″N	11°1′20″E
-https://en.wikipedia.org/wiki/Tynset	Tynset	62°16′31″N	10°49′57″E
-https://en.wikipedia.org/wiki/Alvdal	Alvdal	62°4′18″N	10°30′27″E
-https://en.wikipedia.org/wiki/Folldal	Folldal	62°11′57″N	10°2′7″E
-https://en.wikipedia.org/wiki/Os,_Innlandet	Os	62°28′34″N	11°14′35″E
-https://en.wikipedia.org/wiki/Dovre	Dovre	62°2′6″N	9°28′3″E
-https://en.wikipedia.org/wiki/Lesja	Lesja	62°12′38″N	8°38′41″E
-https://en.wikipedia.org/wiki/Skj%C3%A5k	Skjåk	61°56′10″N	7°57′37″E
-https://en.wikipedia.org/wiki/Lom,_Norway	Lom	61°48′39″N	8°38′21″E
-https://en.wikipedia.org/wiki/V%C3%A5g%C3%A5	Vågå	61°50′55″N	9°7′16″E
-https://en.wikipedia.org/wiki/Nord-Fron	Nord-Fron	61°39′32″N	9°43′40″E
-https://en.wikipedia.org/wiki/Sel	Sel	61°49′1″N	9°34′24″E
-https://en.wikipedia.org/wiki/S%C3%B8r-Fron	Sør-Fron	61°34′8″N	9°55′24″E
-https://en.wikipedia.org/wiki/Ringebu	Ringebu	61°32′8″N	10°18′29″E
-https://en.wikipedia.org/wiki/%C3%98yer	Øyer	61°15′55″N	10°24′48″E
-https://en.wikipedia.org/wiki/Gausdal	Gausdal	61°16′36″N	9°55′21″E
-https://en.wikipedia.org/wiki/%C3%98stre_Toten	Østre	Toten	60°36′48″N
-10°54′58″E			
-https://en.wikipedia.org/wiki/Vestre_Toten	Vestre	Toten	60°39′10″N
-10°35′46″E			
-https://en.wikipedia.org/wiki/Gran,_Norway	Gran	60°26′28″N	10°29′44″E
-https://en.wikipedia.org/wiki/S%C3%B8ndre_Land	Søndre	Land	60°40′37″N
-10°16′44″E			
-https://en.wikipedia.org/wiki/Nordre_Land	Nordre	Land	60°55′55″N
-10°1′2″E			
-https://en.wikipedia.org/wiki/S%C3%B8r-Aurdal	Sør-Aurdal	60°41′47″N	9°39′32″E
-https://en.wikipedia.org/wiki/Etnedal	Etnedal	60°58′2″N	9°39′13″E
-https://en.wikipedia.org/wiki/Nord-Aurdal	Nord-Aurdal	60°57′35″N	9°15′51″E
-https://en.wikipedia.org/wiki/Vestre_Slidre	Vestre	Slidre	61°3′38″N
-8°55′2″E			
-https://en.wikipedia.org/wiki/%C3%98ystre_Slidre	Øystre	Slidre	61°14′11″N
-9°8′37″E			
-https://en.wikipedia.org/wiki/Vang,_Innlandet	Vang	61°12′52″N	8°30′15″E
-https://en.wikipedia.org/wiki/Horten	Horten	59°25′15″N	10°25′58″E
-https://en.wikipedia.org/wiki/Holmestrand	Holmestrand	59°29′43″N	10°14′55″E
-https://en.wikipedia.org/wiki/T%C3%B8nsberg	Tønsberg	59°17′53″N	10°25′25″E
-https://en.wikipedia.org/wiki/Sandefjord	Sandefjord	59°7′50″N	10°13′00″E
-https://en.wikipedia.org/wiki/Larvik	Larvik	59°4′52″N	10°0′59″E
-https://en.wikipedia.org/wiki/Porsgrunn	Porsgrunn	59°6′56″N	9°42′36″E
-https://en.wikipedia.org/wiki/Skien	Skien	59°12′29″N	9°33′10″E
-https://en.wikipedia.org/wiki/Notodden	Notodden	59°37′46″N	9°11′29″E
-https://en.wikipedia.org/wiki/F%C3%A6rder	Færder	59°10′N	10°24′E
-https://en.wikipedia.org/wiki/Siljan,_Norway	Siljan	59°17′51″N	9°42′23″E
-https://en.wikipedia.org/wiki/Bamble	Bamble	59°1′11″N	9°33′39″E
-https://en.wikipedia.org/wiki/Krager%C3%B8	Kragerø	58°53′13″N	9°20′49″E
-https://en.wikipedia.org/wiki/Drangedal	Drangedal	59°7′24″N	8°58′55″E
-https://en.wikipedia.org/wiki/Nome,_Norway	Nome	59°17′5″N	9°7′26″E
-https://en.wikipedia.org/wiki/Midt-Telemark_(municipality)	Midt-Telemark	59°27′00″N	9°06′00″E
-https://en.wikipedia.org/wiki/Tinn	Tinn	60°0′33″N	8°33′34″E
-https://en.wikipedia.org/wiki/Hjartdal	Hjartdal	59°39′54″N	8°43′34″E
-https://en.wikipedia.org/wiki/Seljord	Seljord	59°30′48″N	8°38′56″E
-https://en.wikipedia.org/wiki/Kviteseid	Kviteseid	59°23′54″N	8°29′42″E
-https://en.wikipedia.org/wiki/Nissedal	Nissedal	59°4′35″N	8°31′6″E
-https://en.wikipedia.org/wiki/Fyresdal	Fyresdal	59°9′57″N	8°1′11″E
-https://en.wikipedia.org/wiki/Tokke	Tokke	59°25′2″N	7°58′43″E
-https://en.wikipedia.org/wiki/Vinje	Vinje	59°48′5″N	7°46′45″E
-https://en.wikipedia.org/wiki/Ris%C3%B8r	Risør	58°43′35″N	09°11′40″E
-https://en.wikipedia.org/wiki/Grimstad	Grimstad	58°21′07″N	08°32′40″E
-https://en.wikipedia.org/wiki/Arendal	Arendal	58°27′39″N	08°45′59″E
-https://en.wikipedia.org/wiki/Kristiansand	Kristiansand	58°8′50″N	7°59′50″E
-https://en.wikipedia.org/wiki/Lindesnes	Lindesnes	58°06′15″N	07°17′20″E
-https://en.wikipedia.org/wiki/Farsund	Farsund	58°04′58″N	06°45′10″E
-https://en.wikipedia.org/wiki/Flekkefjord	Flekkefjord	58°19′38″N	06°40′00″E
-https://en.wikipedia.org/wiki/Gjerstad	Gjerstad	58°53′33″N	08°57′24″E
-https://en.wikipedia.org/wiki/Veg%C3%A5rshei	Vegårshei	58°46′32″N	08°49′56″E
-https://en.wikipedia.org/wiki/Tvedestrand	Tvedestrand	58°37′26″N	08°55′40″E
-https://en.wikipedia.org/wiki/Froland	Froland	58°34′59″N	08°34′20″E
-https://en.wikipedia.org/wiki/Lillesand	Lillesand	58°14′49″N	08°19′01″E
-https://en.wikipedia.org/wiki/Birkenes	Birkenes	58°26′58″N	08°14′00″E
-https://en.wikipedia.org/wiki/%C3%85mli	Åmli	58°47′53″N	08°22′9″E
-https://en.wikipedia.org/wiki/Iveland	Iveland	58°26′28″N	07°57′21″E
-https://en.wikipedia.org/wiki/Evje_og_Hornnes	Evje	og	Hornnes
-58°35′05″N	07°46′14″E		
-https://en.wikipedia.org/wiki/Bygland	Bygland	58°55′27″N	07°45′53″E
-https://en.wikipedia.org/wiki/Valle,_Norway	Valle	59°12′45″N	7°32′09″E
-https://en.wikipedia.org/wiki/Bykle	Bykle	59°26′35″N	07°15′18″E
-https://en.wikipedia.org/wiki/Vennesla	Vennesla	58°18′38″N	7°51′25″E
-https://en.wikipedia.org/wiki/%C3%85seral	Åseral	58°42′07″N	07°23′37″E
-https://en.wikipedia.org/wiki/Lyngdal	Lyngdal	58°10′09″N	07°03′21″E
-https://en.wikipedia.org/wiki/H%C3%A6gebostad	Hægebostad	58°27′24″N	07°13′11″E
-https://en.wikipedia.org/wiki/Kvinesdal	Kvinesdal	58°20′17″N	07°01′23″E
-https://en.wikipedia.org/wiki/Sirdal	Sirdal	58°51′43″N	06°48′48″E
-https://en.wikipedia.org/wiki/Bergen	Bergen	60°23′22″N	5°19′48″E
-https://en.wikipedia.org/wiki/Kinn	Kinn	61°35′59″N	5°01′58″E
-https://en.wikipedia.org/wiki/Etne	Etne	59°39′50″N	05°56′00″E
-https://en.wikipedia.org/wiki/Sveio	Sveio	59°34′25″N	05°21′48″E
-https://en.wikipedia.org/wiki/B%C3%B8mlo	Bømlo	59°46′46″N	05°13′06″E
-https://en.wikipedia.org/wiki/Stord	Stord	59°48′29″N	05°27′59″E
-https://en.wikipedia.org/wiki/Fitjar	Fitjar	59°55′08″N	05°22′17″E
-https://en.wikipedia.org/wiki/Tysnes	Tysnes	59°59′54″N	05°34′38″E
-https://en.wikipedia.org/wiki/Kvinnherad	Kvinnherad	59°55′41″N	06°02′13″E
-https://en.wikipedia.org/wiki/Ullensvang	Ullensvang	60°18′42″N	06°48′53″E
-https://en.wikipedia.org/wiki/Eidfjord	Eidfjord	60°26′06″N	07°16′38″E
-https://en.wikipedia.org/wiki/Ulvik	Ulvik	60°37′16″N	07°04′49″E
-https://en.wikipedia.org/wiki/Voss	Voss	60°42′09″N	06°25′23″E
-https://en.wikipedia.org/wiki/Kvam	Kvam	60°22′12″N	06°08′38″E
-https://en.wikipedia.org/wiki/Samnanger	Samnanger	60°24′10″N	05°48′20″E
-https://en.wikipedia.org/wiki/Bj%C3%B8rnafjorden_(municipality)	Bjørnafjorden	60°11′44″N	5°37′20″E
-https://en.wikipedia.org/wiki/Austevoll	Austevoll	60°02′16″N	05°16′06″E
-https://en.wikipedia.org/wiki/%C3%98ygarden	Øygarden	60°36′39″N	04°49′29″E
-https://en.wikipedia.org/wiki/Ask%C3%B8y	Askøy	60°28′17″N	05°09′38″E
-https://en.wikipedia.org/wiki/Vaksdal	Vaksdal	60°36′25″N	05°48′58″E
-https://en.wikipedia.org/wiki/Modalen	Modalen	60°52′50″N	05°55′31″E
-https://en.wikipedia.org/wiki/Oster%C3%B8y	Osterøy	60°31′05″N	05°32′29″E
-https://en.wikipedia.org/wiki/Alver_(municipality)	Alver	60°40′00″N	05°20′00″E
-https://en.wikipedia.org/wiki/Austrheim	Austrheim	60°46′16″N	04°55′34″E
-https://en.wikipedia.org/wiki/Fedje	Fedje	60°46′08″N	04°43′50″E
-https://en.wikipedia.org/wiki/Masfjorden	Masfjorden	60°50′18″N	05°26′55″E
-https://en.wikipedia.org/wiki/Gulen	Gulen	61°01′27″N	05°07′10″E
-https://en.wikipedia.org/wiki/Solund	Solund	61°07′51″N	04°56′52″E
-https://en.wikipedia.org/wiki/Hyllestad	Hyllestad	61°10′15″N	05°17′35″E
-https://en.wikipedia.org/wiki/H%C3%B8yanger	Høyanger	61°11′17″N	05°53′44″E
-https://en.wikipedia.org/wiki/Vik	Vik	61°03′25″N	06°34′41″E
-https://en.wikipedia.org/wiki/Sogndal	Sogndal	61°14′32″N	07°03′18″E
-https://en.wikipedia.org/wiki/Aurland	Aurland	60°52′05″N	07°14′36″E
-https://en.wikipedia.org/wiki/L%C3%A6rdal	Lærdal	61°03′04″N	07°35′52″E
-https://en.wikipedia.org/wiki/%C3%85rdal	Årdal	61°17′29″N	07°47′53″E
-https://en.wikipedia.org/wiki/Luster,_Norway	Luster	61°29′38″N	07°19′46″E
-https://en.wikipedia.org/wiki/Askvoll	Askvoll	61°24′21″N	05°14′32″E
-https://en.wikipedia.org/wiki/Fjaler	Fjaler	61°18′22″N	05°27′48″E
-https://en.wikipedia.org/wiki/Sunnfjord_(municipality)	Sunnfjord	61°27′08″N	5°51′26″E
-https://en.wikipedia.org/wiki/Bremanger	Bremanger	61°48′31″N	05°25′15″E
-https://en.wikipedia.org/wiki/Stad,_Norway	Stad	61°54′41″N	6°02′14″E
-https://en.wikipedia.org/wiki/Gloppen	Gloppen	61°44′38″N	06°10′14″E
-https://en.wikipedia.org/wiki/Stryn	Stryn	61°50′19″N	06°51′46″E
-https://en.wikipedia.org/wiki/Trondheim	Trondheim	63°25′47″N	10°23′36″E
-https://en.wikipedia.org/wiki/Steinkjer	Steinkjer	64°03′29″N	11°43′08″E
-https://en.wikipedia.org/wiki/Namsos	Namsos	64°29′38″N	11°30′42″E
-https://en.wikipedia.org/wiki/Fr%C3%B8ya,_Tr%C3%B8ndelag	Frøya	63°43′32″N	08°44′39″E
-https://en.wikipedia.org/wiki/Osen	Osen	64°17′52″N	10°30′48″E
-https://en.wikipedia.org/wiki/Oppdal	Oppdal	62°34′25″N	09°36′32″E
-https://en.wikipedia.org/wiki/Rennebu	Rennebu	62°49′51″N	09°52′28″E
-https://en.wikipedia.org/wiki/R%C3%B8ros	Røros	62°34′27″N	11°22′59″E
-https://en.wikipedia.org/wiki/Holt%C3%A5len	Holtålen	62°52′07″N	11°16′38″E
-https://en.wikipedia.org/wiki/Midtre_Gauldal	Midtre	Gauldal	62°55′16″N
-10°30′02″E			
-https://en.wikipedia.org/wiki/Melhus	Melhus	63°10′35″N	10°18′13″E
-https://en.wikipedia.org/wiki/Skaun	Skaun	63°16′53″N	10°03′19″E
-https://en.wikipedia.org/wiki/Malvik	Malvik	63°22′22″N	10°45′03″E
-https://en.wikipedia.org/wiki/Selbu	Selbu	63°11′54″N	11°08′25″E
-https://en.wikipedia.org/wiki/Tydal	Tydal	63°01′06″N	11°48′54″E
-https://en.wikipedia.org/wiki/Mer%C3%A5ker	Meråker	63°26′17″N	11°50′58″E
-https://en.wikipedia.org/wiki/Stj%C3%B8rdal	Stjørdal	63°28′30″N	11°10′15″E
-https://en.wikipedia.org/wiki/Frosta	Frosta	63°36′14″N	10°46′28″E
-https://en.wikipedia.org/wiki/Levanger	Levanger	63°39′17″N	11°15′37″E
-https://en.wikipedia.org/wiki/Verdal	Verdal	63°47′53″N	11°56′57″E
-https://en.wikipedia.org/wiki/Sn%C3%A5sa	Snåsa	64°13′28″N	12°37′31″E
-https://en.wikipedia.org/wiki/Lierne	Lierne	64°22′34″N	13°36′35″E
-https://en.wikipedia.org/wiki/R%C3%B8yrvik	Røyrvik	64°55′15″N	13°39′03″E
-https://en.wikipedia.org/wiki/Namsskogan	Namsskogan	64°52′19″N	12°58′35″E
-https://en.wikipedia.org/wiki/Grong	Grong	64°31′53″N	12°37′12″E
-https://en.wikipedia.org/wiki/H%C3%B8ylandet	Høylandet	64°43′27″N	12°20′02″E
-https://en.wikipedia.org/wiki/Overhalla	Overhalla	64°30′28″N	11°53′38″E
-https://en.wikipedia.org/wiki/Flatanger	Flatanger	64°25′11″N	10°54′28″E
-https://en.wikipedia.org/wiki/Leka,_Norway	Leka	65°05′17″N	11°37′01″E
-https://en.wikipedia.org/wiki/Inder%C3%B8y	Inderøy	63°53′58″N	11°13′12″E
-https://en.wikipedia.org/wiki/Indre_Fosen	Indre	Fosen	63°38′38″N
-10°11′13″E			
-https://en.wikipedia.org/wiki/Heim,_Norway	Heim	63°17′26″N	9°05′21″E
-https://en.wikipedia.org/wiki/Hitra	Hitra	63°32′50″N	08°51′17″E
-https://en.wikipedia.org/wiki/%C3%98rland	Ørland	63°47′N	09°48′E
-https://en.wikipedia.org/wiki/%C3%85fjord	Åfjord	63°58′40″N	10°23′08″E
-https://en.wikipedia.org/wiki/Orkland	Orkland	63°18′24″N	9°51′01″E
-https://en.wikipedia.org/wiki/N%C3%A6r%C3%B8ysund	Nærøysund	64°50′21″N	11°27′39″E
-https://en.wikipedia.org/wiki/Rindal	Rindal	63°02′32″N	09°17′22″E
-https://en.wikipedia.org/wiki/Troms%C3%B8	Tromsø	69°40′58″N	18°56′34″E
-https://en.wikipedia.org/wiki/Harstad	Harstad	68°48′00″N	16°32′45″E
-https://en.wikipedia.org/wiki/Alta,_Norway	Alta	69°58′36″N	23°17′45″E
-https://en.wikipedia.org/wiki/Vard%C3%B8	Vardø	70°22′14″N	31°01′27″E
-https://en.wikipedia.org/wiki/Vads%C3%B8	Vadsø	70°04′24″N	29°44′59″E
-https://en.wikipedia.org/wiki/Hammerfest	Hammerfest	70°39′45″N	23°41′00″E
-https://en.wikipedia.org/wiki/Kv%C3%A6fjord	Kvæfjord	68°42′07″N	16°08′49″E
-https://en.wikipedia.org/wiki/Tjeldsund	Tjeldsund	68°29′04″N	16°17′33″E
-https://en.wikipedia.org/wiki/Ibestad	Ibestad	68°49′46″N	17°14′45″E
-https://en.wikipedia.org/wiki/Gratangen	Gratangen	68°41′24″N	17°32′30″E
-https://en.wikipedia.org/wiki/Lavangen	Lavangen	68°39′28″N	17°35′01″E
-https://en.wikipedia.org/wiki/Bardu	Bardu	68°51′51″N	18°21′10″E
-https://en.wikipedia.org/wiki/Salangen	Salangen	68°54′02″N	17°53′35″E
-https://en.wikipedia.org/wiki/M%C3%A5lselv	Målselv	68°58′30″N	19°03′52″E
-https://en.wikipedia.org/wiki/S%C3%B8rreisa	Sørreisa	69°05′31″N	18°11′37″E
-https://en.wikipedia.org/wiki/Dyr%C3%B8y	Dyrøy	69°04′01″N	17°44′29″E
-https://en.wikipedia.org/wiki/Senja_(municipality)	Senja	69°04′50″N	16°48′11″E
-https://en.wikipedia.org/wiki/Balsfjord	Balsfjord	69°18′17″N	19°12′13″E
-https://en.wikipedia.org/wiki/Karls%C3%B8y	Karlsøy	70°07′48″N	19°25′51″E
-https://en.wikipedia.org/wiki/Lyngen	Lyngen	69°41′25″N	20°04′54″E
-https://en.wikipedia.org/wiki/Storfjord	Storfjord	69°16′43″N	20°17′12″E
-https://en.wikipedia.org/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono	Kåfjord	69°36′14″N	20°31′57″E
-https://en.wikipedia.org/wiki/Skjerv%C3%B8y	Skjervøy	70°05′07″N	20°39′34″E
-https://en.wikipedia.org/wiki/Nordreisa	Nordreisa	69°42′18″N	21°12′33″E
-https://en.wikipedia.org/wiki/Kv%C3%A6nangen	Kvænangen	69°53′39″N	21°58′49″E
-https://en.wikipedia.org/wiki/Kautokeino	Kautokeino	69°00′42″N	23°02′36″E
-https://en.wikipedia.org/wiki/Loppa	Loppa	70°14′22″N	22°20′55″E
-https://en.wikipedia.org/wiki/Hasvik	Hasvik	70°35′30″N	22°18′10″E
-https://en.wikipedia.org/wiki/M%C3%A5s%C3%B8y	Måsøy	70°59′48″N	24°39′41″E
-https://en.wikipedia.org/wiki/Nordkapp	Nordkapp	70°58′41″N	25°58′29″E
-https://en.wikipedia.org/wiki/Porsanger	Porsanger	70°03′08″N	24°57′21″E
-https://en.wikipedia.org/wiki/Karasjok	Karasjok	69°28′55″N	25°06′18″E
-https://en.wikipedia.org/wiki/Lebesby	Lebesby	70°56′43″N	27°21′04″E
-https://en.wikipedia.org/wiki/Gamvik	Gamvik	71°02′28″N	27°51′05″E
-https://en.wikipedia.org/wiki/Berlev%C3%A5g	Berlevåg	70°51′29″N	29°05′06″E
-https://en.wikipedia.org/wiki/Tana,_Norway	Tana	70°11′58″N	28°11′09″E
-https://en.wikipedia.org/wiki/Nesseby	Nesseby	70°10′24″N	28°33′13″E
-https://en.wikipedia.org/wiki/B%C3%A5tsfjord	Båtsfjord	70°38′07″N	29°43′15″E
-https://en.wikipedia.org/wiki/S%C3%B8r-Varanger	Sør-Varanger	69°43′43″N	30°02′30″E
+59°54′48″N	10°44′20″E
+58°28′42″N	06°03′47″E
+58°58′12″N	05°43′53″E
+59°26′47″N	05°17′54″E
+58°51′06″N	05°44′10″E
+58°21′54″N	06°18′37″E
+58°31′11″N	06°27′41″E
+58°39′25″N	06°08′48″E
+58°36′23″N	05°43′29″E
+58°46′38″N	05°35′48″E
+58°43′22″N	05°45′55″E
+58°46′55″N	06°00′31″E
+58°52′48″N	05°37′43″E
+59°00′06″N	05°36′55″E
+59°03′48″N	06°01′40″E
+59°13′02″N	06°20′27″E
+59°28′06″N	06°29′59″E
+59°41′15″N	06°26′14″E
+59°03′44″N	05°24′42″E
+59°12′01″N	05°25′23″E
+59°21′42″N	05°32′34″E
+59°15′23″N	05°14′57″E
+59°18′26″N	04°53′10″E
+59°32′44″N	05°49′05″E
+63°06′37″N	07°43′40″E
+62°45′23″N	07°14′19″E
+62°28′40″N	06°11′25″E
+62°03′38″N	05°41′51″E
+62°15′30″N	05°25′53″E
+62°21′20″N	05°32′40″E
+62°21′23″N	05°51′14″E
+62°21′51″N	06°00′05″E
+62°12′01″N	06°07′56″E
+62°11′29″N	06°56′56″E
+62°22′32″N	06°38′39″E
+62°25′29″N	06°12′22″E
+62°33′45″N	06°06′07″E
+62°35′04″N	07°01′06″E
+62°30′17″N	07°46′55″E
+62°49′43″N	06°50′45″E
+62°59′50″N	07°33′19″E
+62°54′59″N	07°55′09″E
+62°57′13″N	08°13′5″E
+62°36′46″N	08°38′03″E
+62°56′51″N	08°46′12″E
+63°24′07″N	08°01′45″E
+63°16′07″N	08°36′28″E
+62°05′16″N	06°00′51″E
+62°18′13″N	7°15′28″E
+62°55′00″N	7°13′39″E
+67°16′58″N	14°22′30″E
+68°25′14″N	17°33′36″E
+65°05′48″N	12°35′19″E
+65°19′25″N	12°10′38″E
+65°28′33″N	12°24′01″E
+65°40′31″N	11°57′28″E
+65°40′06″N	12°31′07″E
+65°59′55″N	12°13′02″E
+65°57′24″N	12°34′22″E
+66°06′46″N	13°07′51″E
+65°47′57″N	13°15′02″E
+65°24′02″N	13°30′38″E
+65°32′51″N	14°08′04″E
+66°05′29″N	12°31′33″E
+66°15′28″N	13°02′06″E
+66°03′15″N	14°01′50″E
+66°22′19″N	14°20′34″E
+66°25′55″N	12°51′18″E
+66°30′27″N	12°01′51″E
+66°35′36″N	13°21′34″E
+66°47′17″N	13°40′33″E
+67°01′24″N	14°04′38″E
+66°55′02″N	14°40′29″E
+66°55′12″N	15°33′36″E
+67°13′14″N	15°48′31″E
+67°13′14″N	15°48′31″E
+67°47′54″N	15°10′19″E
+68°24′15″N	15°34′17″E
+68°32′11″N	16°55′55″E
+67°31′12″N	12°05′56″E
+67°40′23″N	12°40′09″E
+68°04′45″N	13°16′28″E
+68°13′17″N	13°47′04″E
+68°16′41″N	14°31′15″E
+68°32′06″N	14°49′30″E
+68°41′43″N	14°34′46″E
+68°53′18″N	15°11′00″E
+68°42′31″N	15°16′51″E
+69°05′40″N	15°45′52″E
+67°55′31″N	12°57′32″E
+68°04′33″N	15°46′56″E
+59°7′35″N	11°28′58″E
+59°27′33″N	10°42′3″E
+59°17′09″N	11°06′43″E
+59°12′19″N	10°57′0″E
+59°44′16″N	10°12′18″E
+59°40′10″N	09°39′06″E
+60°12′19″N	10°9′9″E
+59°3′23″N	11°1′20″E
+59°13′23″N	11°41′44″E
+59°30′40″N	11°37′42″E
+59°34′56″N	11°10′13″E
+59°28′50″N	11°8′40″E
+59°22′23″N	11°25′13″E
+59°20′56″N	10°51′18″E
+59°28′21″N	10°55′1″E
+59°34′30″N	10°43′55″E
+59°45′00″N	10°52′00″E
+59°39′37″N	10°47′1″E
+59°41′56″N	10°39′19″E
+59°48′31″N	10°39′20″E
+59°56′18″N	10°30′24″E
+59°50′7″N	10°26′6″E
+59°50′24″N	11°34′6″E
+59°53′21″N	11°4′31″E
+59°46′27″N	11°6′7″E
+59°53′56″N	10°57′51″E
+59°57′N	11°05′E
+60°4′23″N	10°52′20″E
+60°4′57″N	11°0′52″E
+60°10′15″N	11°11′17″E
+60°7′51″N	11°29′21″E
+60°21′N	11°15′E
+60°14′44″N	10°57′10″E
+60°24′57″N	11°0′31″E
+60°2′52″N	10°17′28″E
+60°24′31″N	9°29′3″E
+60°33′30″N	9°6′4″E
+60°45′1″N	8°59′5″E
+60°54′21″N	8°30′53″E
+60°37′49″N	8°33′40″E
+60°34′18″N	8°4′18″E
+60°3′9″N	9°36′4″E
+60°11′42″N	9°39′52″E
+59°57′27″N	9°58′58″E
+59°46′19″N	9°50′10″E
+59°47′38″N	10°15′58″E
+59°50′52″N	9°28′56″E
+60°1′2″N	9°14′2″E
+60°18′26″N	8°48′20″E
+60°16′16″N	10°24′7″E
+60°15′10″N	10°40′2″E
+60°14′35″N	12°13′32″E
+60°47′57″N	11°3′22″E
+61°7′N	10°28′E
+60°47′33″N	10°41′42″E
+61°1′27″N	10°48′7″E
+60°49′31″N	11°23′27″E
+60°42′57″N	11°11′25″E
+60°26′32″N	11°34′5″E
+60°14′12″N	11°44′44″E
+59°59′53″N	12°3′38″E
+60°27′23″N	12°03′30″E
+60°39′13″N	12°9′11″E
+60°45′12″N	11°53′51″E
+60°55′39″N	11°42′55″E
+61°18′36″N	12°18′54″E
+61°8′47″N	11°24′57″E
+61°38′6″N	10°52′27″E
+61°51′34″N	11°10′34″E
+61°53′N	12°2′E
+62°24′5″N	11°1′20″E
+62°16′31″N	10°49′57″E
+62°4′18″N	10°30′27″E
+62°11′57″N	10°2′7″E
+62°28′34″N	11°14′35″E
+62°2′6″N	9°28′3″E
+62°12′38″N	8°38′41″E
+61°56′10″N	7°57′37″E
+61°48′39″N	8°38′21″E
+61°50′55″N	9°7′16″E
+61°39′32″N	9°43′40″E
+61°49′1″N	9°34′24″E
+61°34′8″N	9°55′24″E
+61°32′8″N	10°18′29″E
+61°15′55″N	10°24′48″E
+61°16′36″N	9°55′21″E
+60°36′48″N	10°54′58″E
+60°39′10″N	10°35′46″E
+60°26′28″N	10°29′44″E
+60°40′37″N	10°16′44″E
+60°55′55″N	10°1′2″E
+60°41′47″N	9°39′32″E
+60°58′2″N	9°39′13″E
+60°57′35″N	9°15′51″E
+61°3′38″N	8°55′2″E
+61°14′11″N	9°8′37″E
+61°12′52″N	8°30′15″E
+59°25′15″N	10°25′58″E
+59°29′43″N	10°14′55″E
+59°17′53″N	10°25′25″E
+59°7′50″N	10°13′00″E
+59°4′52″N	10°0′59″E
+59°6′56″N	9°42′36″E
+59°12′29″N	9°33′10″E
+59°37′46″N	9°11′29″E
+59°10′N	10°24′E
+59°17′51″N	9°42′23″E
+59°1′11″N	9°33′39″E
+58°53′13″N	9°20′49″E
+59°7′24″N	8°58′55″E
+59°17′5″N	9°7′26″E
+59°27′00″N	9°06′00″E
+60°0′33″N	8°33′34″E
+59°39′54″N	8°43′34″E
+59°30′48″N	8°38′56″E
+59°23′54″N	8°29′42″E
+59°4′35″N	8°31′6″E
+59°9′57″N	8°1′11″E
+59°25′2″N	7°58′43″E
+59°48′5″N	7°46′45″E
+58°43′35″N	09°11′40″E
+58°21′07″N	08°32′40″E
+58°27′39″N	08°45′59″E
+58°8′50″N	7°59′50″E
+58°06′15″N	07°17′20″E
+58°04′58″N	06°45′10″E
+58°19′38″N	06°40′00″E
+58°53′33″N	08°57′24″E
+58°46′32″N	08°49′56″E
+58°37′26″N	08°55′40″E
+58°34′59″N	08°34′20″E
+58°14′49″N	08°19′01″E
+58°26′58″N	08°14′00″E
+58°47′53″N	08°22′9″E
+58°26′28″N	07°57′21″E
+58°35′05″N	07°46′14″E
+58°55′27″N	07°45′53″E
+59°12′45″N	7°32′09″E
+59°26′35″N	07°15′18″E
+58°18′38″N	7°51′25″E
+58°42′07″N	07°23′37″E
+58°10′09″N	07°03′21″E
+58°27′24″N	07°13′11″E
+58°20′17″N	07°01′23″E
+58°51′43″N	06°48′48″E
+60°23′22″N	5°19′48″E
+61°35′59″N	5°01′58″E
+59°39′50″N	05°56′00″E
+59°34′25″N	05°21′48″E
+59°46′46″N	05°13′06″E
+59°48′29″N	05°27′59″E
+59°55′08″N	05°22′17″E
+59°59′54″N	05°34′38″E
+59°55′41″N	06°02′13″E
+60°18′42″N	06°48′53″E
+60°26′06″N	07°16′38″E
+60°37′16″N	07°04′49″E
+60°42′09″N	06°25′23″E
+60°22′12″N	06°08′38″E
+60°24′10″N	05°48′20″E
+60°11′44″N	5°37′20″E
+60°02′16″N	05°16′06″E
+60°36′39″N	04°49′29″E
+60°28′17″N	05°09′38″E
+60°36′25″N	05°48′58″E
+60°52′50″N	05°55′31″E
+60°31′05″N	05°32′29″E
+60°40′00″N	05°20′00″E
+60°46′16″N	04°55′34″E
+60°46′08″N	04°43′50″E
+60°50′18″N	05°26′55″E
+61°01′27″N	05°07′10″E
+61°07′51″N	04°56′52″E
+61°10′15″N	05°17′35″E
+61°11′17″N	05°53′44″E
+61°03′25″N	06°34′41″E
+61°14′32″N	07°03′18″E
+60°52′05″N	07°14′36″E
+61°03′04″N	07°35′52″E
+61°17′29″N	07°47′53″E
+61°29′38″N	07°19′46″E
+61°24′21″N	05°14′32″E
+61°18′22″N	05°27′48″E
+61°27′08″N	5°51′26″E
+61°48′31″N	05°25′15″E
+61°54′41″N	6°02′14″E
+61°44′38″N	06°10′14″E
+61°50′19″N	06°51′46″E
+63°25′47″N	10°23′36″E
+64°03′29″N	11°43′08″E
+64°29′38″N	11°30′42″E
+63°43′32″N	08°44′39″E
+64°17′52″N	10°30′48″E
+62°34′25″N	09°36′32″E
+62°49′51″N	09°52′28″E
+62°34′27″N	11°22′59″E
+62°52′07″N	11°16′38″E
+62°55′16″N	10°30′02″E
+63°10′35″N	10°18′13″E
+63°16′53″N	10°03′19″E
+63°22′22″N	10°45′03″E
+63°11′54″N	11°08′25″E
+63°01′06″N	11°48′54″E
+63°26′17″N	11°50′58″E
+63°28′30″N	11°10′15″E
+63°36′14″N	10°46′28″E
+63°39′17″N	11°15′37″E
+63°47′53″N	11°56′57″E
+64°13′28″N	12°37′31″E
+64°22′34″N	13°36′35″E
+64°55′15″N	13°39′03″E
+64°52′19″N	12°58′35″E
+64°31′53″N	12°37′12″E
+64°43′27″N	12°20′02″E
+64°30′28″N	11°53′38″E
+64°25′11″N	10°54′28″E
+65°05′17″N	11°37′01″E
+63°53′58″N	11°13′12″E
+63°38′38″N	10°11′13″E
+63°17′26″N	9°05′21″E
+63°32′50″N	08°51′17″E
+63°47′N	09°48′E
+63°58′40″N	10°23′08″E
+63°18′24″N	9°51′01″E
+64°50′21″N	11°27′39″E
+63°02′32″N	09°17′22″E
+69°40′58″N	18°56′34″E
+68°48′00″N	16°32′45″E
+69°58′36″N	23°17′45″E
+70°22′14″N	31°01′27″E
+70°04′24″N	29°44′59″E
+70°39′45″N	23°41′00″E
+68°42′07″N	16°08′49″E
+68°29′04″N	16°17′33″E
+68°49′46″N	17°14′45″E
+68°41′24″N	17°32′30″E
+68°39′28″N	17°35′01″E
+68°51′51″N	18°21′10″E
+68°54′02″N	17°53′35″E
+68°58′30″N	19°03′52″E
+69°05′31″N	18°11′37″E
+69°04′01″N	17°44′29″E
+69°04′50″N	16°48′11″E
+69°18′17″N	19°12′13″E
+70°07′48″N	19°25′51″E
+69°41′25″N	20°04′54″E
+69°16′43″N	20°17′12″E
+69°36′14″N	20°31′57″E
+70°05′07″N	20°39′34″E
+69°42′18″N	21°12′33″E
+69°53′39″N	21°58′49″E
+69°00′42″N	23°02′36″E
+70°14′22″N	22°20′55″E
+70°35′30″N	22°18′10″E
+70°59′48″N	24°39′41″E
+70°58′41″N	25°58′29″E
+70°03′08″N	24°57′21″E
+69°28′55″N	25°06′18″E
+70°56′43″N	27°21′04″E
+71°02′28″N	27°51′05″E
+70°51′29″N	29°05′06″E
+70°11′58″N	28°11′09″E
+70°10′24″N	28°33′13″E
+70°38′07″N	29°43′15″E
+69°43′43″N	30°02′30″E

@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Helvetica, sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    width: 40%;
+    text-align: center;
+}
+
+/* Styling the 11th column (the political party column). - Jon */
+table.sortable.wikipage td:nth-child(11) {
+    background-color: antiquewhite;
+}
+
+/* Styling every party with their color. - Jon */
+/* td:nth-child(11)[data-content*="Ap"] {
+    background-color: red;
+}
+
+td:nth-child(11)[data-content*="H"] {
+    color: lightblue;
+}
+
+td:nth-child(11)[data-content*="SP"] {
+    color: green;
+}
+
+td:nth-child(11)[data-content*="FrP"] {
+    color: darkblue;
+}
+
+td:nth-child(11)[data-content*="SV" i] {
+    color: lightsalmon;
+}
+
+td:nth-child(11)[data-content*="KrF" i] {
+    color: yellow;
+}
+
+td:nth-child(11)[data-content*="V"] {
+    color: green;
+}
+
+td:nth-child(11)[data-content*="MdG"] {
+    color: lightgreen;
+} */
+/* ^ Actually needs JavaScript, so fogettaboudit. - Jon */

@@ -2,16 +2,17 @@
 
 - Ensure Apache 2 is installed, and ensure Apache 2 is running.
 
-- Add the page to sites-available.
+- Add the page to sites-available & sites-enabled.
 
 - Add aliases and enable eventual scripts for running.
 
 - Restart/reload Apache 2, ensure it runs without errors.
 
-- Go to you custom URL as a substitute for localhost.
+- Go to your custom URL as a substitute for localhost.
 
 - OPTIONAL: Do the same steps as above, but ensure specific webpages
-            also have their unique URLs (configure relevant Apache files).
+            also have their unique URLs
+            (configure relevant Apache files if sites-enabled & sites-available isn't enough).
 
 - OPTIONAL: Create a "deploy.sh"-file that copies files from the code-repository
             location over to "var/www/..." with required permissions for
